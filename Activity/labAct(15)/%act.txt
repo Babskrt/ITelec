@@ -1,0 +1,8 @@
+1. Write a program to check given number is odd or even.
+2. Write a program to find the greatest number in three given numbers.
+3. Write a program to accept one positive integer then print all the number from the integer to zero.
+4. Write a program to check whether the given number is prime or not.
+5. Write a program to accept one positive integer, then output all the numbers that is divisible by 3 and 5 from 1 to the number inputted. Display all the number in one line.
+Example (12 is the inputted number) Output: 3-5-6-9-10-12. There will be no hyphen(-) at the starting and ending position
+
+Put it all in one html form and php
